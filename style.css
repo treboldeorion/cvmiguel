@@ -10,7 +10,7 @@ img{
 .navegacion{
     float: left;
     width: 200vh; /*vh signfica view Heigth, vw ver acnho*/
-    height: 8vh;
+    height: 10vh;
     background-color: #282828;
 }
 .navegacion a{
@@ -18,7 +18,7 @@ img{
     height: 100%;
     color:alicreblue;
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 5px;
     font-size: 25px;
     text-decoration: none;
     background-color:none;
@@ -26,11 +26,11 @@ img{
 .navegacion a:hover{
 background-color: darkseagreen;
 color:black;
-border: solid rgb(141, 62, 151)5px;
+border: solid rgb(130, 10, 151)5px;
 border-radius: 10px;
 }
 .navegacion a.activo{
-    blackground-color:darkseagreen;
+    blackground-color: darkseagreen;
     color:black;
 }
 fieldset{
